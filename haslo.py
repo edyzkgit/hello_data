@@ -1,2 +1,2 @@
 print('Zmiana maila')
-print('Sialalala')
+print('Sialalala bubub')
